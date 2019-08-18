@@ -1,0 +1,22 @@
+*ERROR* 	2019/08/16 - 00:07:17: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 02:29:32: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 02:57:23: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 03:02:55: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 03:15:43: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 03:22:21: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 03:34:19: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 12:52:31: Link to database cannot be established:SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2019/08/16 - 13:11:23: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 13:18:37: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 13:27:52: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 16:19:48: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 16:27:05: Link to database cannot be established:SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2019/08/16 - 16:27:44: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 16:35:43: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 16:45:10: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 17:01:32: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 17:07:18: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 17:14:52: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
+*ERROR* 	2019/08/16 - 17:20:24: Property Tab->name is empty at line 962 in file classes/ObjectModel.php
