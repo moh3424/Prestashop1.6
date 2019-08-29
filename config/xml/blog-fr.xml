@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>De quoi dépend le prix de référencement payant Google ?</title>
+    <link>https://www.prestashop.com/fr/blog/prix-de-referencement-payant-google</link>
+    <description>On vient de lancer un site et on a hâte de voir du trafic et d&#039;élever son taux de conversion (visiteur en prospect) ?</description>
+     <pubDate>Wed, 28 Aug 2019 17:20:47 +0200</pubDate>
+ <dc:creator>Waoo</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prix-de-referencement-payant-google</guid>
+  </item>
+  <item>
+    <title>L’étape du paiement, ultime opportunité pour contrer l’abandon de panier</title>
+    <link>https://www.prestashop.com/fr/blog/contrer-l-abandon-de-panier</link>
+    <description>Véritable fléau dans le domaine du e-commerce, l’abandon de panier est la bête noire de tous les propriétaires d’un e-business. Il affecte n’importe quel marché (B2C ou B2B) et secteur.</description>
+     <pubDate>Mon, 26 Aug 2019 11:29:19 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/contrer-l-abandon-de-panier</guid>
+  </item>
+  <item>
+    <title>Comment analyser facilement les mots clés de vos concurrents ?</title>
+    <link>https://www.prestashop.com/fr/blog/analyser-facilement-les-mots-cles</link>
+    <description>Véritable pilier fondamental pour élaborer une stratégie SEO efficace, savoir analyser les mots clés de vos concurrents efficacement s’avère être indispensable.</description>
+     <pubDate>Fri, 23 Aug 2019 10:03:08 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/analyser-facilement-les-mots-cles</guid>
+  </item>
+  <item>
+    <title>Six conseils pour réussir sa migration vers PrestaShop 1.7</title>
+    <link>https://www.prestashop.com/fr/blog/conseils-migration-prestashop-1-7</link>
+    <description>La migration d’une boutique e-commerce est une étape importante mais parfois délicate.</description>
+     <pubDate>Wed, 21 Aug 2019 10:35:22 +0200</pubDate>
+ <dc:creator>Méguy Solvet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/conseils-migration-prestashop-1-7</guid>
+  </item>
+  <item>
+    <title>E-commerce : les 10 points clés d&amp;#039;un SEO performant</title>
+    <link>https://www.prestashop.com/fr/blog/points-cles-seo-performant</link>
+    <description>Les recherches organiques, via les moteurs, sont à l’origine de plus de 56% du trafic des sites e-commerce.</description>
+     <pubDate>Mon, 19 Aug 2019 11:18:27 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/points-cles-seo-performant</guid>
+  </item>
+  <item>
+    <title>5 idées de marketing social à appliquer pour votre site e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/5-idees-marketing-social</link>
+    <description>Les réseaux sociaux sont un levier, réellement devenu indispensable, à inclure dans votre stratégie digitale.</description>
+     <pubDate>Fri, 16 Aug 2019 14:51:59 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/5-idees-marketing-social</guid>
+  </item>
+  <item>
+    <title>L’aventure dropshipping avec PrestaShop</title>
+    <link>https://www.prestashop.com/fr/blog/aventure-dropshipping-prestashop</link>
+    <description>Depuis plus de 10 ans le dropshipping est pratiqué en France par des e-commerçants de toutes tailles aussi bien parmi les fo</description>
+     <pubDate>Tue, 06 Aug 2019 11:27:47 +0200</pubDate>
+ <dc:creator>Ether Création</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/aventure-dropshipping-prestashop</guid>
+  </item>
+  <item>
+    <title>Six façons de contribuer au projet PrestaShop</title>
+    <link>https://www.prestashop.com/fr/blog/contribuer-au-projet-prestashop</link>
+    <description>Par définition, un projet open source est un projet collaboratif.</description>
+     <pubDate>Tue, 06 Aug 2019 11:04:57 +0200</pubDate>
+ <dc:creator>Louise Bonnard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/contribuer-au-projet-prestashop</guid>
+  </item>
+  <item>
+    <title>Comment inciter les clients à augmenter leur panier moyen ?</title>
+    <link>https://www.prestashop.com/fr/blog/inciter-a-augmenter-panier-moyen</link>
+    <description>Pousser vos clients à augmenter leur panier moyen est l’une des techniques les plus directes et efficaces pour accroître votre chiffre d’affaires, quelque soit le domaine dans lequ</description>
+     <pubDate>Tue, 06 Aug 2019 10:33:15 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/inciter-a-augmenter-panier-moyen</guid>
+  </item>
+  <item>
+    <title>L’importance des réseaux sociaux pour votre E-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/reseaux-sociaux-et-e-commerce</link>
+    <description>La progression de l’e-commerce semble ne jamais vouloir ralentir, malgré des années de hausses continues.</description>
+     <pubDate>Tue, 06 Aug 2019 10:11:26 +0200</pubDate>
+ <dc:creator>DIGIACTIF</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/reseaux-sociaux-et-e-commerce</guid>
+  </item>
+  </channel>
+</rss>
